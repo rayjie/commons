@@ -6,7 +6,11 @@ import java.net.NetworkInterface;
 import java.util.Enumeration;
 
 import javax.servlet.http.HttpServletRequest;
-
+/**
+ * 
+ * @author: mmj
+ * @date:2018年12月11日 上午9:22:43
+ */
 public class IpUtils {
 	
 	/**
